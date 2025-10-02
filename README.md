@@ -44,3 +44,9 @@ Parrafo dos veces intro
 [link](https://es.pinterest.com/ "Link a Pinterest")
 
 ![alt text](./imagen1.jpg "imagen random de un pulpo")
+
+
+|Jugador|Equipo|Nombre|
+|32|Lakers|Magic Johnson|
+|33|Celtics|Boston Celtics|
+|23|Bulls|Michael "air" Jordan|  
