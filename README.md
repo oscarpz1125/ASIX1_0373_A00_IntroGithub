@@ -25,3 +25,13 @@ Esto esta ~~tachado~~
 * Elemento desordenado 1
 + Elemento desordenado 2
 - Elemento desordenado 3
+
+Parrafo dos veces intro
+
+```html
+<p>Esto es un parrafo<p>
+```
+
+[link](https://es.pinterest.com/ "Link a Pinterest")
+
+![alt text](./imagen1.jpg "imagen random de un pulpo")
