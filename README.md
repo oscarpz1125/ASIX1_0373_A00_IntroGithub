@@ -18,7 +18,7 @@ Esto esta ~~tachado~~
     * Elemento desordenado 1,1
     * Elemento desordenado 1,2
 2. Elemento 2
-* Elemento desordenado 1,3
+    * Elemento desordenado 1,3
     * Elemento desordenado 1,4
 3. Elemento 3 
 
